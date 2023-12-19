@@ -36,8 +36,8 @@ class reporte:
                 archivo.write('<tr>\n')
                 archivo.write(f'<td>{auxiliar.dato.artista}</td>\n')
                 archivo.write(f'<td>{auxiliar.dato.album}</td>\n')
-                archivo.write(f'<td><a href="{auxiliar.dato.ruta}">Reproducir</a></td>\n')
                 archivo.write(f'<td><img src="{auxiliar.dato.imagen}" width="100" height="100"></td>\n')
+                archivo.write(f'<td><a href="{auxiliar.dato.ruta}">Reproducir</a></td>\n')
                 archivo.write('</tr>\n')
                 auxiliar = auxiliar.siguiente
 
