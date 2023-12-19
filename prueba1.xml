@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+	<cancion nombre="Driver License">
+		<artista>Olivia Rodrigo</artista>
+		<album>bleed american</album>
+		<imagen>musica/dos.png</imagen>
+		<ruta>musica/cancion2.mp3</ruta>
+	</cancion>
+	<cancion nombre="She">
+		<artista>Harry Stiles</artista>
+		<album>Fine Line</album>
+		<imagen>musica/tres.jpg</imagen>
+		<ruta>musica/cancion3.mp3</ruta>
+	</cancion>
+	<cancion nombre="Primera Cita">
+		<artista>Carin Leon</artista>
+		<album>Colmillo de leche</album>
+		<imagen>musica/uno.jpg</imagen>
+		<ruta>musica/cancion1.mp3</ruta>
+	</cancion>
+	
+</biblioteca>
